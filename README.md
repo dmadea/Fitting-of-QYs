@@ -1,6 +1,6 @@
 # Fitting of QYs
 
-This repository contains the raw data and the fitting routines with the results for the determination of the reaction quantum yields of photoisomerization. See [JOC publication](... TBA) for details. At least [Python](https://www.python.org/) 3.7 and the following packages are required to run the Jupyter Notebook `QY fitting.ipynb`:
+This repository contains the raw data and the fitting routines with the results for the determination of the reaction quantum yields of photoisomerization. See [JOC publication ref TBA](https://doi.org/) for details. At least [Python 3.7](https://www.python.org/) and the following packages are required to run the Jupyter Notebook `QY fitting.ipynb`:
 
 * [NumPy](https://numpy.org/)
 * [Scipy](https://scipy.org/)
