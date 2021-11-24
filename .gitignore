@@ -130,3 +130,6 @@ dmypy.json
 
 # Word documents
 *.docx
+
+# for JOC paper as SI
+README.txt
